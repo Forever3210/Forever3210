@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Sunset Software](https://discord.gg/Uq2r4GrjH4)
 
-- 👯 I’m working with [m1scfps](https://github.com/m1scfps)
-
 - 👨‍💻 All of my projects are available at [https://discord.gg/Uq2r4GrjH4](https://discord.gg/Uq2r4GrjH4)
 
 - ⚡ Fun fact **Sunset its just better**
